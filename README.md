@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhijith J Nair and I'm a Tech Enthusiast, from Kerala, India. Glad to meet you!! Hope u like my profile</h2>
+<h2 align="left">Hi 👋! My name is Abhijith J Nair and I'm a Tech Enthusiast. Glad to meet you!! Hope u like my profile</h2>
 
 ###
 
