@@ -1,4 +1,4 @@
-<h1 align="center">Hey Guys!! 👋 <br>Hope You'd like my Profile!!</h1>
+<h1 align="center">Hey Guys!! 👋 <br>I'm Abhijith J Nair</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Abhijith J Nair, A Computer Science and Engineering student from Pandalam, Kerala, India!!<br><br>- 🔭 I’m working as Video Editor in IEDC Bootcamp CEC<br>- 📚 I'm currently learning Full Stack Web Development<br>- ⚡ In my free time I like to do extra-curricular activities.</p>
+<p align="left">I'm a Computer Science and Engineering student studying at College of Engineereing, Chengannur, Kerala, India!!<br><br>- 🔭 I’m working as Video Editor in IEDC Bootcamp CEC<br>- 📚 I'm currently learning Full Stack Web Development<br>- ⚡ In my free time I like to do extra-curricular activities.</p>
 
 ###
 
