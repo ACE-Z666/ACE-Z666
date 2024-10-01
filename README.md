@@ -40,8 +40,6 @@
 
 ###
 
-###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
