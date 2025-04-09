@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Langchain, Pytorch, Django & ExpressJs**.
 
-- 💬 Ask me about **ReactJS, Langchain, Express**.
+- 💬 Ask me about **React, Langchain, Pinecone, Huggingface, Express**.
 
 - 📫 You can reach me at **abhijithjnair4321@gmail.com**.
 
