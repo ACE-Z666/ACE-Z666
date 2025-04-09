@@ -1,17 +1,17 @@
 <h1 align="center">Hey 👋, I'm Abhijith J Nair</h1>
 <h3 align="center">I’m an intermediate Full Stack and AI developer passionate about building end-to-end applications and intelligent systems.</h3>
 
-- **Quality and Operations Lead** in IEDC BOOTCAMP CEC 
+- **Quality and Operations Lead** in IEDC BOOTCAMP CEC.
 
--  **President** of PRODDEC CEC (Product Design and Development Centre) 
+-  **President** of PRODDEC CEC (Product Design and Development Centre).
 
-- **Member of IEDC NEST 3.0**, The State-Level team of IEDC directly under Kerala Startup Mission
+- **Member of IEDC NEST 3.0**, The State-Level team of IEDC directly under Kerala Startup Mission.
 
-- 🌱 I’m currently learning **Langchain, Pytorch, Django & ExpressJs**
+- 🌱 I’m currently learning **Langchain, Pytorch, Django & ExpressJs**.
 
-- 💬 Ask me about **ReactJS, Langchain, Express**
+- 💬 Ask me about **ReactJS, Langchain, Express**.
 
-- 📫 You can reach me at **abhijithjnair4321@gmail.com**
+- 📫 You can reach me at **abhijithjnair4321@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ace-z666&show_icons=true&locale=en" alt="ace-z666" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ace-z666&" alt="ace-z666" /></p>
