@@ -96,32 +96,12 @@ Interactive 3D iPhone visualization with smooth animations.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ace-z666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ace-z666&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=38BDF8)
+<img src="https://github-readme-stats.vercel.app/api?username=ace-z666&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ace-z666&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDF8)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ace-z666&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ace-z666&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ace-z666&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDF8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace-z666&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
