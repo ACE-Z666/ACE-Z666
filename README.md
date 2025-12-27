@@ -99,6 +99,8 @@ Interactive 3D iPhone visualization with smooth animations.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ace-z666&theme=radical&hide_border=true" alt="GitHub Streak" />
 
+</div>
+
 ---
 
 ## 🌱 Currently Learning
