@@ -2,7 +2,7 @@
   
 # 👋 Hey there, I'm Abhijith J Nair
 
-### Full Stack Developer | AI Enthusiast | Problem Solver
+### AI/ML Engineer | Multimodal DL | RAG 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijith-j-nair)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/abhijith_j_nair)
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm an intermediate **Full Stack Developer** and **AI Engineer** passionate about building intelligent, end-to-end applications that solve real-world problems. I love working at the intersection of web development and artificial intelligence, creating systems that are both powerful and user-friendly.
+I'm an **AI Engineer** passionate about building intelligent, end-to-end applications that solve real-world problems. I love working at the intersection of web development and artificial intelligence, creating systems that are both powerful and user-friendly.
 
 ```javascript
 const abhijith = {
