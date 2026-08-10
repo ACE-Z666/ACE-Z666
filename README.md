@@ -71,26 +71,38 @@ const abhijith = {
 
 ## 💼 Featured Projects
 
+### 🎬 [TrueFluence](https://github.com/ACE-Z666/Truefluence)
+
+**Multimodal Promotional Video Credibility Analyser**
+
+An AI-powered system designed to assess the credibility of promotional video content by combining visual, audio, engagement, and textual intelligence.
+
+- **Tech:** PyTorch, MesoNet, MobileNetV2, Bi-LSTM, BERT, React Native, Transformers
+- **Features:** Deepfake detection, visual analysis, audio intelligence, engagement analysis, and NLP-based comment understanding
+- **Result:** Ranked **#1 among 40+ projects** at CEC Project Expo 2.0
+- **Performance:** Achieved **84.6% overall accuracy** through multimodal fusion
+
 ### 🧠 [EchoLearn](https://github.com/ACE-Z666/Echolearn)
-AI-powered learning assistant with PDF summarization, flashcards, and intelligent Q&A chatbot.
-- **Tech:** Django, React, Gemini 2.5 Pro, Mistral AI, MongoDB, PineconeDB
-- **Features:** PDF processing, AI-generated flashcards, context-aware chatbot
 
-### 💬 [Chat-app](https://github.com/ACE-Z666/Chat-app)
-Real-time messaging application with WebSocket communication.
-- **Tech:** MERN Stack, Socket.io, JWT
-- **Features:** Real-time messaging, user authentication, responsive design
+**AI-powered Student Academic Toolkit**
 
-### 📱 [GyroAce](https://github.com/ACE-Z666/GyroAce)
-Bluetooth-free gyroscopic pointer control using phone motion sensors.
-- **Tech:** React Native, Node.js, RobotJS, Expo
-- **Features:** Long-distance control, gyroscope integration, network communication
+A GenAI-powered learning assistant combining document processing, RAG, vector search, and LLMs to provide context-aware academic assistance.
 
-### 📱 [iPhone 3D Experience](https://github.com/ACE-Z666/iphone-3js-project)
-Interactive 3D iPhone visualization with smooth animations.
-- **Tech:** Three.js, React, GSAP
-- **Features:** 3D rendering, interactive controls, realistic materials
+- **Tech:** Django REST, React, LangChain, Mistral AI, Gemini, Pinecone, MongoDB
+- **Features:** PDF processing, intelligent Q&A, document retrieval, and AI-generated learning content
+- **Architecture:** Retrieval-Augmented Generation with vector-based semantic search
+- **Optimisation:** Reduced retrieval latency by **30%**
 
+### 🛡️ [XGBoost URL Threat Classification System](https://github.com/Shijina843/phishing_website/tree/Abhi)
+
+**Machine Learning-based Phishing URL Detection**
+
+A machine learning system that identifies potentially malicious URLs using lexical and structural characteristics of URLs.
+
+- **Tech:** Python, XGBoost, Flask, Tailwind CSS, Docker
+- **Features:** URL feature engineering, malicious URL classification, threat analysis, and inference API
+- **Performance:** Achieved **0.88 macro F1-score and 88% accuracy**
+- **Deployment:** Containerised the inference pipeline with **Docker** for reproducible deployment and testing
 ---
 
 ## 📊 GitHub Statistics
